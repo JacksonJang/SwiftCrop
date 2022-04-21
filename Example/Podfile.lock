@@ -1,0 +1,16 @@
+PODS:
+  - SwiftCrop (0.1.0)
+
+DEPENDENCIES:
+  - SwiftCrop (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCrop:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftCrop: 9542c26cf091d2ac7887d0f88868eaa2597b639c
+
+PODFILE CHECKSUM: fc54a99cd4f34ed4719a8d02fb839361f34412f7
+
+COCOAPODS: 1.11.2

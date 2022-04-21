@@ -1,0 +1,6 @@
+framework module SwiftCrop {
+  umbrella header "SwiftCrop-umbrella.h"
+
+  export *
+  module * { export * }
+}
